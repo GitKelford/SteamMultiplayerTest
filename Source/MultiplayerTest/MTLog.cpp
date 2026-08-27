@@ -1,0 +1,5 @@
+#include "MTLog.h"
+
+DEFINE_LOG_CATEGORY(LogMTOnline);
+DEFINE_LOG_CATEGORY(LogMTInteraction);
+DEFINE_LOG_CATEGORY(LogMTInventory);
